@@ -1,0 +1,28 @@
+
+.header-div{
+    /* display: none; */
+}
+
+.item-img-animation{
+    /* position: fixed; make sure it stays put so we can see it! */
+  /* animation: zoom 1s linear infinite;
+  animation-play-state: paused;
+  animation-delay: calc(var(--scroll) * -1s);
+  animation-iteration-count: 1;
+  animation-fill-mode: both; */
+}
+
+@keyframes zoom {
+    to {
+      transform: scale(1);
+    }
+    /* from{
+        transform: scale(1);
+    } */
+  }
+
+@media (max-width:570px) {
+    .header-div{
+        /* display: block; */
+    }
+}

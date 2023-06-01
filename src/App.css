@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+
+body {
+  /* font-family: 'Fredericka the Great', cursive; */
+  /* font-family: 'Grand Hotel', cursive; */
+  font-family: 'Montserrat', sans-serif;
+}

@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'gabelisa';
+    src: url(../../assets/custom-font/gabelisa/Gabelisa-Font.otf);
+}
+
+.custom-font{
+    font-family: 'gabelisa';
+}
+
+.kodomful{
+    -webkit-filter: drop-shadow(5px 5px 5px rgb(34, 34, 34,0.5));
+    filter: drop-shadow(5px 8px 22px rgb(34, 34, 34,0.3));
+}
+
+.order-btn{
+    cursor: pointer;
+}
+.order-btn:hover{
+    background-color: black;
+    color: white;
+}
